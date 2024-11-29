@@ -28,7 +28,7 @@ Pour exécuter le projet localement, suivez ces étapes :
 
 3. Installez les dépendances :
 
-   `npm run i`
+   `npm i`
 
 4. Lancez le serveur de développement :
 
